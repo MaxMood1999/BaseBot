@@ -1,0 +1,3 @@
+curl -i --proxy brd.superproxy.io:33335 --proxy-user
+brd-customer-hl_5b07f597-zone-residential_proxy_bot:cjt1pq03olg5 -k
+"https://geo.brdtest.com/welcome.txt?product=resi&method=native"
